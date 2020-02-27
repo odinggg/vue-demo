@@ -1,4 +1,4 @@
-# wechat-web
+# vue-demo
 
 ## Project setup
 ```
